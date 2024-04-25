@@ -1,0 +1,1 @@
+Small weighted Graph assignment
